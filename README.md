@@ -1,6 +1,6 @@
 # testing-history-rewrite
 
-Now Alright ***REMOVED*** write history
+Now Alright ***REMOVED***  alright write history
 
 Now we create some more information.
 
